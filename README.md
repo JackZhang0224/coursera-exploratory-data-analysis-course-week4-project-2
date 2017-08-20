@@ -1,1 +1,1 @@
-# coursera-exploratory-data-analysis-course-week4-project-2
+# This project contains the 6 plots corresponding to the Exploratory Data Analyisis Course Project 2 assignment
