@@ -2,7 +2,7 @@
 require(ggplot2)
 
 ## set my work dir
-setwd("C:/Users/jackzhang/Coursera/Exploring Data/Project2/")
+setwd("C:/Users/jackZhang/Coursera/Exploring Data/Project2/")
 
 
 ## get data
